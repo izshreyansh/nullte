@@ -10,5 +10,5 @@ I would prefer not to include compiled files in the project for most cases.
 
 Working demo gif
 
-![alt text](https://ibb.co/zfVBf33)
+![alt text](![alt text](https://github.com/izshreyansh/nullte/blob/master/demo.gif?raw=true))
 
